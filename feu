@@ -8,5 +8,6 @@
 <body>
     <h1>Hello, World!</h1>
     <p>Welcome to my first HTML page.</p>
+    <h2>Bye, World!</h2>
 </body>
 </html>
