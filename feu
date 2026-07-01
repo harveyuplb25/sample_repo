@@ -8,6 +8,8 @@
 <body>
     <h1>Hello, World!</h1>
     <p>Welcome to my first HTML page.</p>
-    <h2>Bye, World!</h2>
+    <p> Additional 1</p>
+    <p> Additional 2</p>
+    <p> Additional 3</p>
 </body>
 </html>
